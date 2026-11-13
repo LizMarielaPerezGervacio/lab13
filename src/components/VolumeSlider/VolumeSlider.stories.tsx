@@ -36,3 +36,11 @@ export const SinLabel: Story = {
     defaultValue: 50,
   },
 };
+
+export const ConTextoPersonalizado: Story = {
+  args: { label: 'Brillo de pantalla', defaultValue: 50 },
+};
+
+export const Secondary: Story = {
+  args: { label: 'Volumen secundario', defaultValue: 65, color: 'secondary' },
+};
