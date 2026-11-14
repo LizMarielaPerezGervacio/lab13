@@ -1,5 +1,5 @@
 {
-  "name": "project-example",
+  "name": "lab_02",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -48,6 +48,6 @@
     "storybook": "^10.6.7",
     "typescript": "6.0",
     "typescript-eslint": "^8.72.2",
-    "vitest": "^5.1.0"
+    "vitest": "^4.0.0"
   }
 }
